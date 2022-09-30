@@ -90,6 +90,7 @@ header img {
 }
 
 #content img {
+    margin-top: 1.5em;
     width: 80%;
     border-radius: 50%;
 }
