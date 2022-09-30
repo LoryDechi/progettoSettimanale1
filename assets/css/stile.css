@@ -125,10 +125,6 @@ header img {
     font-size: 0.9em;
 }
 
-/* #testimonial blockquote cite p {
-    font-size: 0.8em;
-} */
-
 /* SECTION SCHEDE INFORMATIVE */
 
 #tabs div {
@@ -162,18 +158,19 @@ footer {
 footer h2 {
     color: white;
     font-size: 2em;
+    line-height: 2em;
 }
 
-footer ul li {
+footer address ul li {
     color: #c8e7f0;
 }
 
-footer ul li i {
+footer address ul li i {
     color: white;
 }
 
-footer ul li a:link,
-footer ul li a:visited {
+footer address ul li a:link,
+footer address ul li a:visited {
     color: #c8e7f0;
     font-size: 1.1em;
     line-height: 1.2em;
