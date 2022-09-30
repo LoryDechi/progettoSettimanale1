@@ -110,20 +110,24 @@ header img {
     line-height: 3em;
 }
 
-#testimonial blockquote>p {
+#testimonial blockquote {
     font-style: italic;
     margin-bottom: 2em;
 }
 
-#testimonial blockquote h3 {
+#testimonial p {
     color: white;
     font-weight: 400;
     font-size: 1.2em;
 }
 
-#testimonial blockquote cite p {
-    font-size: 0.8em;
+#testimonial p:last-child {
+    font-size: 0.9em;
 }
+
+/* #testimonial blockquote cite p {
+    font-size: 0.8em;
+} */
 
 /* SECTION SCHEDE INFORMATIVE */
 
